@@ -1,4 +1,6 @@
-# Notas
+# Notas:
+App para generar tabla en node
+### Comandos para generar la tabla
 
 ```
 Options:
